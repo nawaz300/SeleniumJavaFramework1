@@ -1,0 +1,9 @@
+[TRACE] 2020-09-12 00:58:16.037 [main] Log4jDemo - This is trace message
+[INFO ] 2020-09-12 00:58:16.045 [main] Log4jDemo - This is information message
+[ERROR] 2020-09-12 00:58:16.045 [main] Log4jDemo - This is an error message
+[WARN ] 2020-09-12 00:58:16.046 [main] Log4jDemo - This is a warn message
+[FATAL] 2020-09-12 00:58:16.046 [main] Log4jDemo - This is a fatal message
+[INFO ] 2020-09-12 03:05:15.688 [main] Log4jDemo - Browser Started
+[INFO ] 2020-09-12 03:07:29.953 [main] Log4jDemo - Browser Started
+[INFO ] 2020-09-12 03:11:21.338 [main] Log4jDemo - Browser Started
+[INFO ] 2020-09-12 03:14:25.517 [main] Log4jDemo - Browser Started

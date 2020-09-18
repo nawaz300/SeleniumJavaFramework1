@@ -1,0 +1,7 @@
+ [INFO ] 2020-09-12 03:22:40.528 [main] Log4jDemo - This is information message
+[ERROR] 2020-09-12 03:22:40.535 [main] Log4jDemo - This is an error message
+[WARN ] 2020-09-12 03:22:40.536 [main] Log4jDemo - This is a warn message
+[FATAL] 2020-09-12 03:22:40.536 [main] Log4jDemo - This is a fatal message
+[INFO ] 2020-09-12 03:23:41.792 [main] Log4jDemo - Browser Started
+[INFO ] 2020-09-12 03:34:33.306 [main] Log4jDemo - browser started
+[INFO ] 2020-09-12 03:34:40.902 [main] Log4jDemo - Navigated To Google
